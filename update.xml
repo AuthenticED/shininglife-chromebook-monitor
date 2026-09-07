@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
+  <app appid="hdekbhedfkfiobgjjlphgeofbpadkopm">
+    <updatecheck
+      codebase="https://authenticed.github.io/shininglife-chromebook-monitor/shininglife_chromebook_monitor_v0_3.crx"
+      version="0.3.0" />
+  </app>
+</gupdate>
