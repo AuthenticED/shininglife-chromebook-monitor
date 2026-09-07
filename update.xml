@@ -2,7 +2,7 @@
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
   <app appid="hdekbhedfkfiobgjjlphgeofbpadkopm">
     <updatecheck
-      codebase="https://shininglife-chromebook-monitor.pages.dev/shininglife_chromebook_monitor_v0_3.crx"
-      version="0.3.0" />
+      codebase="https://shininglife-chromebook-monitor.pages.dev/shininglife_chromebook_monitor_v0_4.crx"
+      version="0.4.0" />
   </app>
 </gupdate>
