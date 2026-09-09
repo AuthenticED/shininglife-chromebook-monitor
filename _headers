@@ -5,3 +5,7 @@
 /shininglife_chromebook_monitor_v0_4.crx
   Content-Type: application/x-chrome-extension
   Cache-Control: no-cache
+
+/shininglife_chromebook_monitor_v1_0.crx
+  Content-Type: application/x-chrome-extension
+  Cache-Control: no-cache
